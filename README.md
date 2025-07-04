@@ -12,7 +12,7 @@ A complete A-Z notebook for data science
   - Matrix Multiplication
   - Eigenvalues and Eigenvectors
   - **Links**
-  - [Linear Algebra Playlist](https://www.youtube.com/watch?v=RlHmflqeH3s&list=PLdKd-j64gDcBLV-vG6C0l6rxYQ0eLu2Zj&index=4&ab_channel=AnalyticsVidhya)
+    - [Linear Algebra Playlist](https://www.youtube.com/watch?v=RlHmflqeH3s&list=PLdKd-j64gDcBLV-vG6C0l6rxYQ0eLu2Zj&index=4&ab_channel=AnalyticsVidhya)
     
 - **Calculus**
   - Derivatives and Integrals
