@@ -13,15 +13,22 @@ A complete A-Z notebook for data science
   - Eigenvalues and Eigenvectors
   - **Links**
     - [Linear Algebra Playlist](https://www.youtube.com/watch?v=RlHmflqeH3s&list=PLdKd-j64gDcBLV-vG6C0l6rxYQ0eLu2Zj&index=4&ab_channel=AnalyticsVidhya)
+    - [3Blue 1 Brown - Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&ab_channel=3Blue1Brown)
+    - [Linear Algebra Code](Linear%20Algebra/)
     
 - **Calculus**
   - Derivatives and Integrals
   - Chain Rule and Partial Derivatives
+  - **Links**
+    - [3Blue 1 Brown - Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown)
+  
 - **Probability & Statistics**
   - Mean, Median, Mode, Variance, Standard Deviation
   - Probability Theory and Bayes' Theorem
   - Distributions (Normal, Binomial, Poisson)
   - Hypothesis testing
+  - **Links**
+    - [StatsQuest - Fundamentals of Statistics](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&ab_channel=StatQuestwithJoshStarmer)
 
 ### 💻 Programming (Python)
 - Python Basics: Data Types, Loops, Functions, OOP
