@@ -103,15 +103,15 @@ A complete A-Z notebook for data science
 
 **Distribution Analysis:**
 - **Histograms** - Show frequency distribution of numerical variables
-- **Box plots** - Identify outliers, quartiles, and data spread
-- **Violin plots** - Combine box plots with kernel density estimation
-- **Density plots** - Smooth distribution curves
+- [**Box plots**](https://www.youtube.com/results?search_query=statsquid+violin+plot) - Identify outliers, quartiles, and data spread
+- [**Violin plots**](https://www.youtube.com/results?search_query=statsquid+violin+plot) - Combine box plots with kernel density estimation
+- [**Density plots**](https://www.youtube.com/watch?v=CbqoxkkJyzY&ab_channel=Biostatsquid) - Smooth distribution curves
 
 **Relationship Analysis:**
 - **Scatter plots** - Explore relationships between two continuous variables
 - **Pair plots** - Matrix of scatter plots for multiple variables
 - **Heatmaps** - Visualize **correlation matrices** and pivot tables
-- **Joint plots** - Combine scatter plots with marginal distributions
+- [**Joint plots**](https://www.youtube.com/watch?v=56AQl9L6V8A&ab_channel=Learnerea) - Combine scatter plots with marginal distributions
 
 **Categorical Analysis:**
 - **Bar plots** - Compare categories and frequencies
@@ -131,7 +131,7 @@ A complete A-Z notebook for data science
 - **Distribution Types**
   - Normal, uniform, skewed, bimodal distributions
   - Heavy-tailed vs light-tailed distributions
-- **Skewness Measurement**
+- [**Skewness Measurement**](https://www.youtube.com/watch?v=U0NZu6f5TMI&t=308s&ab_channel=TheOrganicChemistryTutor)
   - Right skewed (positive): mean > median, long right tail
   - Left skewed (negative): mean < median, long left tail
   - Symmetric: mean ≈ median
@@ -139,7 +139,7 @@ A complete A-Z notebook for data science
 - **Normality Testing**
   - Shapiro-Wilk test (small samples)
   - Kolmogorov-Smirnov test (larger samples)
-  - Visual inspection with Q-Q plots
+  - Visual inspection with [Q-Q plots](https://www.youtube.com/watch?v=okjYjClSjOg&ab_channel=StatQuestwithJoshStarmer)
 
 **NoteBook:** : [EDA Notebook](EDA_Visualization_Guide.ipynb)
 
