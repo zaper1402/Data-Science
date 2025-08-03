@@ -76,8 +76,8 @@ A complete A-Z notebook for data science
 
 
 ---
-
-## 📍 Phase 1: Core Data Science (1–1.5 Months) {#phase-1}
+<a id="phase-1"></a>
+## 📍 Phase 1: Core Data Science (1–1.5 Months)
 
 ### Data Fetching & Preparation
 - Data Collection: APIs, Web Scraping, Databases
@@ -94,7 +94,8 @@ A complete A-Z notebook for data science
 - Grouping, Merging, Reshaping
 - **Links**
   - [Medium - Data Cleaning](https://medium.com/pythoneers/practical-examples-of-data-cleaning-using-pandas-and-numpy-5f59021f0144)
-  - [Datacamp - Feature Engineering](https://www.datacamp.com/community/tutorials/feature-engineering-python)
+  - [Datacamp - Feature Engineering](https://www.datacamp.com/tutorial/feature-engineering)
+  - [Data cleaning practices](Data%20Cleaning.md/)
 
 ### ✅ EDA (Exploratory Data Analysis)
 
@@ -140,9 +141,11 @@ A complete A-Z notebook for data science
   - Kolmogorov-Smirnov test (larger samples)
   - Visual inspection with Q-Q plots
 
----
+**NoteBook:** : [EDA Notebook](EDA_Visualization_Guide.ipynb)
 
-## 📍 Phase 2: Machine Learning Models (2 Months) {#phase-2}
+---
+<a id="phase-2"></a>
+## 📍 Phase 2: Machine Learning Models (2 Months)
 
 ### 🤖 ML Fundamentals
 - Types of Learning: Supervised, Unsupervised, Reinforcement, Semi-supervised, Self-supervised, Advanced: Transfer Learning, Active Learning
@@ -167,9 +170,6 @@ A complete A-Z notebook for data science
 - Regression: MAE, RMSE
 - Cross-validation techniques
 
-
-
-
 ### 🔬 Feature Engineering (Advanced)
 - Encoding Categorical Features
 - Feature Scaling: StandardScaler, MinMaxScaler
@@ -187,8 +187,8 @@ A complete A-Z notebook for data science
 
 
 ---
-
-## 📍 Phase 3: Deep Learning (2 Months) {#phase-3}
+<a id="phase-3"></a>
+## 📍 Phase 3: Deep Learning (2 Months)
 
 ### ✅ Core Concepts
 - Neurons, Perceptrons
@@ -210,7 +210,8 @@ A complete A-Z notebook for data science
 
 ---
 
-## 📍 Phase 4: NLP for Production (1–1.5 Months) {#phase-4}
+<a id="phase-4"></a>
+## 📍 Phase 4: NLP for Production (1–1.5 Months)
 
 ### ✅ Classical NLP
 - Text Preprocessing: Lemmatization, tokenization, stopwords, POS Tagging
@@ -228,8 +229,8 @@ A complete A-Z notebook for data science
     - NER (Named Entity Recognition)
 
 ---
-
-## 📍 Phase 5: Deployment & MLOps (1.5 Months) {#phase-5}
+<a id="phase-5"></a>
+## 📍 Phase 5: Deployment & MLOps (1.5 Months)
 
 ### ✅ Model Deployment
 - Save & Load Models: `pickle`, `joblib`
@@ -248,8 +249,8 @@ A complete A-Z notebook for data science
 
 
 ---
-
-## 📍 Phase 6: Specialization (Optional / Parallel) {#phase-6}
+<a id="phase-6"></a>
+## 📍 Phase 6: Specialization (Optional / Parallel)
 
 ### 🔍 Areas of Specialization
 - Computer Vision (YOLO, SSD, OpenCV)
