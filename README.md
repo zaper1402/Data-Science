@@ -148,27 +148,74 @@ A complete A-Z notebook for data science
 ## 📍 Phase 2: Machine Learning Models (2 Months)
 
 ### 🤖 ML Fundamentals
-- Types of Learning: Supervised, Unsupervised, Reinforcement, Semi-supervised, Self-supervised, Advanced: Transfer Learning, Active Learning
+- Types of Learning: Supervised, Unsupervised, Reinforcement, Semi-supervised, Self-supervised, Advanced: Transfer Learning, Active Learning [Flowchart](full_machine_learning_flowchart.html/)
 - Model Lifecycle: Train/Test Split, Validation
-- Concepts: Overfitting, Underfitting, Bias-Variance Tradeoff
+- Concepts: [Overfitting, Underfitting, Bias-Variance Tradeoff](https://www.youtube.com/watch?v=EuBBz3bI-aA&ab_channel=StatQuestwithJoshStarmer)
 
 ### ✅ Supervised Learning
-- Linear Regression
+
+#### 🔍 Classification Algorithms
 - Logistic Regression
-- Decision Trees, Random Forests
-- Support Vector Machines (SVM)
+- Naive Bayes
+- Discriminant Analysis
 - K-Nearest Neighbors (KNN)
-- Gradient Boosting (XGBoost, LightGBM)
+
+#### 📈 Regression Algorithms
+- Linear Regression
+- Polynomial Regression
+- Ridge/Lasso/Elastic Net Regression
+- Gaussian Process Regression
+
+#### 🎯 Both Regression and Classification
+- Decision Trees
+- Random Forests
+- Gradient Boosting (XGBoost, LightGBM, CatBoost)
+- Neural Networks
+- K-Nearest Neighbors
+- Support Vector Machines (SVM)
 
 ### ✅ Unsupervised Learning
-- K-Means Clustering
+
+#### 🎯 Clustering Algorithms
+- K-Means
 - Hierarchical Clustering
-- PCA for Dimensionality Reduction
+- DBSCAN
+
+#### 📊 Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- Linear Discriminant Analysis (LDA)
+- t-SNE, UMAP
+
+#### 🎨 Representation Learning
+- Autoencoders
+- Matrix Factorization
 
 ### ✅ Evaluation Metrics
-- Classification: Accuracy, Precision, Recall, F1, ROC-AUC
-- Regression: MAE, RMSE
-- Cross-validation techniques
+
+#### 🎯 Classification Metrics
+- **Basic Metrics**: Accuracy, Precision, Recall, F1-Score
+- **Medical/Binary Classification**: [Sensitivity (True Positive Rate), Specificity (True Negative Rate)](https://www.youtube.com/watch?v=vP06aMoz4v8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=4&ab_channel=StatQuestwithJoshStarmer)
+- **ROC Curve & AUC**: Area Under the Curve analysis
+- [**Confusion Matrix**](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3&ab_channel=StatQuestwithJoshStarmer): True/False Positives and Negatives
+- **Class Imbalance**: Balanced Accuracy, Cohen's Kappa
+
+#### 📊 Regression Metrics
+- **Error Metrics**: MAE (Mean Absolute Error), RMSE (Root Mean Square Error)
+- **Relative Metrics**: MAPE (Mean Absolute Percentage Error), R²
+- **Residual Analysis**: Homoscedasticity, Normality of residuals
+
+#### ⚖️ Model Bias & Fairness
+- **Algorithmic Bias**: Demographic parity, Equalized odds
+- **Statistical Bias**: Selection bias, Confirmation bias, Survivorship bias
+- **Bias-Variance Tradeoff**: Understanding model complexity vs. generalization
+- **Fairness Metrics**: Disparate impact, Individual fairness
+
+#### 🔄 Cross-Validation Techniques
+- **K-Fold Cross-Validation**: Standard approach for model validation
+- **Stratified Cross-Validation**: Maintaining class distribution
+- **Time Series Cross-Validation**: Walk-forward validation
+- **Leave-One-Out Cross-Validation**: For small datasets
+
 
 ### 🔬 Feature Engineering (Advanced)
 - Encoding Categorical Features
@@ -184,6 +231,11 @@ A complete A-Z notebook for data science
 - `scikit-learn`
 - `xgboost`
 - `lightgbm`
+
+**Links**
+- [Stanford CS229 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=StanfordOnline)
+
+**CheatSheet*: [Scikit-learn CheatSheet](https://scikit-learn.org/stable/machine_learning_map.html)
 
 
 ---
