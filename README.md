@@ -156,11 +156,15 @@ A complete A-Z notebook for data science
 
 #### 🔍 Classification Algorithms
 - [Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&ab_channel=StatQuestwithJoshStarmer)
-- Naive Bayes
-- Discriminant Analysis
+  - [IBM Document](https://www.ibm.com/think/topics/logistic-regression)
+  - [CampusX In-depth (Hindi)](https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=69&ab_channel=CampusX)
+- [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA&ab_channel=StatQuestwithJoshStarmer)
+  - [Gaussian Naive Bayes](https://www.youtube.com/watch?v=H3EjCKtlVog&pp=0gcJCccJAYcqIYzv)   
+  - [CampusX in-depth (Hindi)](https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=118&ab_channel=CampusX)     
 
 #### 📈 Regression Algorithms
-- Linear Regression
+- [Linear Regression](https://www.youtube.com/watch?v=7ArmBVF2dCs&ab_channel=StatQuestwithJoshStarmer)
+  - [CampusX in-depth (Hindi)](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=50&ab_channel=CampusX)   
 - Polynomial Regression
 - Ridge/Lasso/Elastic Net Regression
 - Gaussian Process Regression
@@ -181,7 +185,7 @@ A complete A-Z notebook for data science
 
 #### 📊 Dimensionality Reduction
 - Principal Component Analysis (PCA)
-- Linear Discriminant Analysis (LDA)
+- [Linear Discriminant Analysis (LDA)](https://www.youtube.com/watch?v=azXCzI57Yfc&ab_channel=StatQuestwithJoshStarmer)
 - t-SNE, UMAP
 
 #### 🎨 Representation Learning
