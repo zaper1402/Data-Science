@@ -155,10 +155,9 @@ A complete A-Z notebook for data science
 ### ✅ Supervised Learning
 
 #### 🔍 Classification Algorithms
-- Logistic Regression
+- [Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&ab_channel=StatQuestwithJoshStarmer)
 - Naive Bayes
 - Discriminant Analysis
-- K-Nearest Neighbors (KNN)
 
 #### 📈 Regression Algorithms
 - Linear Regression
@@ -170,7 +169,6 @@ A complete A-Z notebook for data science
 - Decision Trees
 - Random Forests
 - Gradient Boosting (XGBoost, LightGBM, CatBoost)
-- Neural Networks
 - K-Nearest Neighbors
 - Support Vector Machines (SVM)
 
