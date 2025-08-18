@@ -165,9 +165,9 @@ A complete A-Z notebook for data science
 #### 📈 Regression Algorithms
 - [Linear Regression](https://www.youtube.com/watch?v=7ArmBVF2dCs&ab_channel=StatQuestwithJoshStarmer)
   - [CampusX in-depth (Hindi)](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=50&ab_channel=CampusX)   
-- Polynomial Regression
-- Ridge/Lasso/Elastic Net Regression
-- Gaussian Process Regression
+- [Polynomial Regression](https://www.youtube.com/watch?v=BNWLf3cKdbQ&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=60&ab_channel=CampusX)
+- [Ridge/Lasso/Elastic Net Regression](https://www.youtube.com/watch?v=Q81RR3yKn30&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=25&ab_channel=StatQuestwithJoshStarmer)
+- [Gaussian Process Regression](https://www.youtube.com/watch?v=UBDgSHPxVME&list=PL1iHuxEW9u9iz1NVUKwH8VRCpj3xB5NMY&ab_channel=MutualInformation)
 
 #### 🎯 Both Regression and Classification
 - Decision Trees
