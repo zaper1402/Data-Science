@@ -170,7 +170,7 @@ A complete A-Z notebook for data science
 - [Gaussian Process Regression](https://www.youtube.com/watch?v=UBDgSHPxVME&list=PL1iHuxEW9u9iz1NVUKwH8VRCpj3xB5NMY&ab_channel=MutualInformation)
 
 #### 🎯 Both Regression and Classification
-- Decision Trees
+- [Decision Trees](https://youtu.be/_L39rN6gz7Y?feature=shared)
 - Random Forests
 - Gradient Boosting (XGBoost, LightGBM, CatBoost)
 - K-Nearest Neighbors
