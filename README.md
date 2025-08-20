@@ -171,8 +171,11 @@ A complete A-Z notebook for data science
 
 #### 🎯 Both Regression and Classification
 - [Decision Trees](https://youtu.be/_L39rN6gz7Y?feature=shared)
-- Random Forests
-- Gradient Boosting (XGBoost, LightGBM, CatBoost)
+- [Random Forests](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&ab_channel=StatQuestwithJoshStarmer)
+- [Gradient Boosting](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&ab_channel=StatQuestwithJoshStarmer)
+  - [XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E&list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ&ab_channel=StatQuestwithJoshStarmer)
+  - LightGBM
+  - CatBoost
 - K-Nearest Neighbors
 - Support Vector Machines (SVM)
 
