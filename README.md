@@ -200,11 +200,11 @@ A complete A-Z notebook for data science
 
 ### ✅ Evaluation Metrics
 
-#### 🎯 Classification Metrics
+#### 🎯 [Classification Metrics](https://developers.google.com/machine-learning/crash-course/classification/thresholding)
+- [**Confusion Matrix**](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3&ab_channel=StatQuestwithJoshStarmer): True/False Positives and Negatives
 - **Basic Metrics**: Accuracy, Precision, Recall, F1-Score
 - **Medical/Binary Classification**: [Sensitivity (True Positive Rate), Specificity (True Negative Rate)](https://www.youtube.com/watch?v=vP06aMoz4v8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=4&ab_channel=StatQuestwithJoshStarmer)
 - **ROC Curve & AUC**: Area Under the Curve analysis
-- [**Confusion Matrix**](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3&ab_channel=StatQuestwithJoshStarmer): True/False Positives and Negatives
 - **Class Imbalance**: Balanced Accuracy, Cohen's Kappa
 
 #### 📊 Regression Metrics
