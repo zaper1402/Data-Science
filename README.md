@@ -181,7 +181,7 @@ A complete A-Z notebook for data science
 - [K-Nearest Neighbors](https://www.youtube.com/watch?v=b6uHw7QW_n4&ab_channel=IBMTechnology)
 - [Support Vector Machines (SVM)](https://www.youtube.com/watch?v=efR1C6CvhmE&list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc&ab_channel=StatQuestwithJoshStarmer)
 
-### ✅ Unsupervised Learning
+### ✅ [Unsupervised Learning](https://cloud.google.com/discover/what-is-unsupervised-learning)
 
 #### 🎯 [Clustering Algorithms](https://developers.google.com/machine-learning/clustering/overview)
 - [K-Means](https://www.youtube.com/watch?v=4b5d3muPQmA&t=33s&ab_channel=StatQuestwithJoshStarmer)
@@ -196,9 +196,7 @@ A complete A-Z notebook for data science
 - [UMAP](https://www.youtube.com/watch?v=eN0wFzBA4Sc&ab_channel=StatQuestwithJoshStarmer)
 - [PCA vs t-SNE vs UMAP](https://www.youtube.com/watch?v=o_cAOa5fMhE&ab_channel=Deepia)
 
-#### 🎨 Representation Learning
-- Autoencoders
-- Matrix Factorization
+#### 🎨 [Association Rules](https://www.youtube.com/watch?v=guVvtZ7ZClw&t=120s&ab_channel=edureka%21)
 
 ### ✅ Evaluation Metrics
 
