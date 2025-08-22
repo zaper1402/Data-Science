@@ -178,8 +178,8 @@ A complete A-Z notebook for data science
   - [XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E&list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ&ab_channel=StatQuestwithJoshStarmer)
   - LightGBM
   - CatBoost
-- K-Nearest Neighbors
-- Support Vector Machines (SVM)
+- [K-Nearest Neighbors](https://www.youtube.com/watch?v=b6uHw7QW_n4&ab_channel=IBMTechnology)
+- [Support Vector Machines (SVM)](https://www.youtube.com/watch?v=efR1C6CvhmE&list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc&ab_channel=StatQuestwithJoshStarmer)
 
 ### ✅ Unsupervised Learning
 
