@@ -183,15 +183,18 @@ A complete A-Z notebook for data science
 
 ### ✅ Unsupervised Learning
 
-#### 🎯 Clustering Algorithms
-- K-Means
-- Hierarchical Clustering
-- DBSCAN
+#### 🎯 [Clustering Algorithms](https://developers.google.com/machine-learning/clustering/overview)
+- [K-Means](https://www.youtube.com/watch?v=4b5d3muPQmA&t=33s&ab_channel=StatQuestwithJoshStarmer)
+- [Hierarchical Clustering](https://www.youtube.com/watch?v=8QCBl-xdeZI&ab_channel=DATAtab)
+- [DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok&ab_channel=StatQuestwithJoshStarmer)
 
 #### 📊 Dimensionality Reduction
-- Principal Component Analysis (PCA)
+- [Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer)
+  - [Visualisation of PCA](https://www.youtube.com/watch?v=FD4DeN81ODY&ab_channel=VisuallyExplained) 
 - [Linear Discriminant Analysis (LDA)](https://www.youtube.com/watch?v=azXCzI57Yfc&ab_channel=StatQuestwithJoshStarmer)
-- t-SNE, UMAP
+- [t-SNE](https://www.youtube.com/watch?v=NEaUSP4YerM&ab_channel=StatQuestwithJoshStarmer)
+- [UMAP](https://www.youtube.com/watch?v=eN0wFzBA4Sc&ab_channel=StatQuestwithJoshStarmer)
+- [PCA vs t-SNE vs UMAP](https://www.youtube.com/watch?v=o_cAOa5fMhE&ab_channel=Deepia)
 
 #### 🎨 Representation Learning
 - Autoencoders
@@ -241,8 +244,9 @@ A complete A-Z notebook for data science
 
 **Links**
 - [Stanford CS229 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=StanfordOnline)
+- [Google Machine Learning Course](https://developers.google.com/machine-learning)
 
-**CheatSheet*: [Scikit-learn CheatSheet](https://scikit-learn.org/stable/machine_learning_map.html)
+**CheatSheet* : [Scikit-learn CheatSheet](https://scikit-learn.org/stable/machine_learning_map.html)
 
 
 ---
