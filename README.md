@@ -244,21 +244,38 @@ A complete A-Z notebook for data science
 ## 📍 Phase 3: Deep Learning (2 Months)
 
 ### ✅ Core Concepts
+
 - Neurons, Perceptrons
-- Neural Networks: input, hidden, output layers
-- Activation Functions: ReLU, Sigmoid, Tanh
-- Forward and Backward Propagation
-- Loss Functions: MSE, Cross Entropy
-- Optimizers: SGD, Adam
+  - [Medium Blog](https://medium.com/@abhishekjainindore24/perceptron-vs-neuron-single-layer-perceptron-and-multi-layer-perceptron-68ce4e8db5ea)
+  - [Video](https://www.youtube.com/watch?v=OFbnpY_k7js&list=PL2zRqk16wsdo3VJmrusPU6xXHk37RuKzi&index=2&pp=iAQB)
+- [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown): input, hidden, output layers
+- [Activation Functions](https://www.youtube.com/watch?v=Y9qdKsOHRjA&ab_channel=LearnWithJay): ReLU, Sigmoid, Tanh, SoftMax
+  - [Blog](https://www.v7labs.com/blog/neural-networks-activation-functions)   
+- [Gr adient Descent, Cost Function](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2&pp=iAQB)
+- [Forward](https://www.youtube.com/watch?v=99CcviQchd8&ab_channel=SatyajitPattnaik) and [Backward](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3&pp=iAQB0gcJCa0JAYcqIYzv) Propagation
+- [Loss Functions](https://nadeemm.medium.com/cost-function-loss-function-c3cab1ddffa4): MSE, Cross Entropy
+- [Optimizers](https://www.youtube.com/watch?v=mdKjMPmcWjY&ab_channel=CodeEmporium): SGD, Adam
 
 ### 🧠 Neural Networks
-- Feedforward Neural Networks
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs)
-- LSTM, GRU
+- [Feedforward Neural Networks](https://www.youtube.com/watch?v=QK7GJZ94qPw&ab_channel=NatalieParde)
+  - [Multilayer Perceptron (MLP)](https://www.youtube.com/watch?v=7YaqzpitBXw&ab_channel=IBMTechnology)
+  - [Autoencoders](https://www.youtube.com/watch?v=hZ4a4NgM3u0&ab_channel=Deepia)
+    - [Undercomplete, Overcomplete](https://medium.com/@piyushkashyap045/a-comprehensive-guide-to-autoencoders-8b18b58c2ea6)
+    - [Variational Autoencoders (VAE)](https://www.youtube.com/watch?v=qJeaCHQ1k2w&ab_channel=Deepia)
+- [Convolutional Neural Networks (CNNs)](https://www.youtube.com/watch?v=pj9-rr1wDhM&ab_channel=Futurology%E2%80%94AnOptimisticFuture)
+  - [MIT- Lecture](https://www.youtube.com/watch?v=oGpzWAlP5p0&ab_channel=AlexanderAmini)
+  - [Visualisation tool](https://adamharley.com/nn_vis/)
+- [Recurrent Neural Networks (RNNs)](https://www.youtube.com/watch?v=AsNTP8Kwu80&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=15&pp=iAQB)
+  - [Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=YCzL96nL7j0&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=16&ab_channel=StatQuestwithJoshStarmer): RNN using gates, used for time-series forecasting
+  - [Gated Recurrent Unit (GRU)](https://www.youtube.com/watch?v=tOuXgORsXJ4&ab_channel=codebasics)
+- Generative Adversarial Networks (GANs)
+
+- Links:
+  - [Google: Course](https://developers.google.com/machine-learning/crash-course/neural-networks)   
+
 
 ### ✅ Frameworks
-- `TensorFlow + Keras` OR `PyTorch`
+- `TensorFlow + Keras` OR `PyTorch`   
 - `torchvision`, `datasets`
 
 ---
