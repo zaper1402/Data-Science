@@ -91,6 +91,8 @@ A complete A-Z notebook for data science
 - Cleaning missing/null data
 - Handling outliers and duplicates
 - Feature Engineering and Transformation
+  - Standardization vs Normalisation
+  - [Scaling](https://ethans.co.in/blogs/different-types-of-feature-scaling-and-its-usage/)
 - Grouping, Merging, Reshaping
 - **Links**
   - [Medium - Data Cleaning](https://medium.com/pythoneers/practical-examples-of-data-cleaning-using-pandas-and-numpy-5f59021f0144)
