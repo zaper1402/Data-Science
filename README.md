@@ -223,18 +223,11 @@ A complete A-Z notebook for data science
   - [Video for K-Fold, Stratified, Leave-One-Out](https://www.youtube.com/watch?v=PF2wLKv2lsI&t=36s&ab_channel=MaheshHuddar)
 - [**Time Series Cross-Validation**](https://www.youtube.com/watch?v=1rZpbvSI26c&ab_channel=EgorHowell): Walk-forward validation
 
-
-### 🔬 Feature Engineering (Advanced)
-- Encoding Categorical Features
-- Feature Scaling: StandardScaler, MinMaxScaler
-- Feature Selection Techniques
-- Handling Imbalanced Data: SMOTE, Class Weights
-
 ### ✅ Model Selection & Tuning (Advanced)
-- Hyperparameter tuning: `GridSearchCV`, `RandomizedSearchCV`
+- [Hyperparameter tuning](https://www.youtube.com/watch?v=lfiw2Rh2v8k&ab_channel=AIForBeginners): `GridSearchCV`, `RandomizedSearchCV`
 - Train/Validation/Test Split
 
-### 📚 Libraries
+### 📚 Some useful Libraries
 - `scikit-learn`
 - `xgboost`
 - `lightgbm`
