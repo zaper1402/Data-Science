@@ -215,10 +215,11 @@ A complete A-Z notebook for data science
 - [Fairness Measures](https://www.youtube.com/watch?v=3UcSq1dGW2c&ab_channel=ADataOdyssey)
 
 #### 🔄 Cross-Validation Techniques
-- **K-Fold Cross-Validation**: Standard approach for model validation
+-  **K-Fold Cross-Validation**: Standard approach for model validation
 - **Stratified Cross-Validation**: Maintaining class distribution
-- **Time Series Cross-Validation**: Walk-forward validation
 - **Leave-One-Out Cross-Validation**: For small datasets
+  - [Video for K-Fold, Stratified, Leave-One-Out](https://www.youtube.com/watch?v=PF2wLKv2lsI&t=36s&ab_channel=MaheshHuddar)
+- [**Time Series Cross-Validation**](https://www.youtube.com/watch?v=1rZpbvSI26c&ab_channel=EgorHowell): Walk-forward validation
 
 
 ### 🔬 Feature Engineering (Advanced)
