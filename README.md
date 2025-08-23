@@ -202,21 +202,17 @@ A complete A-Z notebook for data science
 
 #### 🎯 [Classification Metrics](https://developers.google.com/machine-learning/crash-course/classification/thresholding)
 - [**Confusion Matrix**](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3&ab_channel=StatQuestwithJoshStarmer): True/False Positives and Negatives
-- **Basic Metrics**: Accuracy, Precision, Recall, F1-Score
+- **Basic Metrics**: [Accuracy, Precision, Recall, F1-Score](https://www.youtube.com/watch?v=4i4C3ejTdgs&ab_channel=ML%26DLExplained)
 - **Medical/Binary Classification**: [Sensitivity (True Positive Rate), Specificity (True Negative Rate)](https://www.youtube.com/watch?v=vP06aMoz4v8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=4&ab_channel=StatQuestwithJoshStarmer)
-- **ROC Curve & AUC**: Area Under the Curve analysis
-- **Class Imbalance**: Balanced Accuracy, Cohen's Kappa
+- [**ROC Curve & AUC**](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 
 #### 📊 Regression Metrics
-- **Error Metrics**: MAE (Mean Absolute Error), RMSE (Root Mean Square Error)
-- **Relative Metrics**: MAPE (Mean Absolute Percentage Error), R²
-- **Residual Analysis**: Homoscedasticity, Normality of residuals
+- **Error Metrics**: [MAE (Mean Absolute Error)](https://youtu.be/Ti7c-Hz7GSM?t=92&feature=shared), [MSE](https://youtu.be/Ti7c-Hz7GSM?t=92&feature=shared) , [RMSE (Root Mean Square Error)](https://youtu.be/Ti7c-Hz7GSM?t=749&feature=shared)
+- **Relative Metrics**: [R²](https://www.youtube.com/watch?v=bMccdk8EdGo&ab_channel=StatQuestwithJoshStarmer), [Adjusted R² Score](https://youtu.be/Ti7c-Hz7GSM?t=1626&feature=shared)
 
-#### ⚖️ Model Bias & Fairness
-- **Algorithmic Bias**: Demographic parity, Equalized odds
-- **Statistical Bias**: Selection bias, Confirmation bias, Survivorship bias
-- **Bias-Variance Tradeoff**: Understanding model complexity vs. generalization
-- **Fairness Metrics**: Disparate impact, Individual fairness
+#### ⚖️ [Model Bias & Fairness](https://developers.google.com/machine-learning/crash-course/fairness/types-of-bias)
+- [Bias-Variance Tradeoff](https://www.youtube.com/watch?v=EuBBz3bI-aA&ab_channel=StatQuestwithJoshStarmer)
+- [Fairness Measures](https://www.youtube.com/watch?v=3UcSq1dGW2c&ab_channel=ADataOdyssey)
 
 #### 🔄 Cross-Validation Techniques
 - **K-Fold Cross-Validation**: Standard approach for model validation
