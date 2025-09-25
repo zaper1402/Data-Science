@@ -284,7 +284,7 @@ A complete A-Z notebook for data science
 ## 📍 Phase 4: NLP for Production (1–1.5 Months)
 
 ### ✅ Classical NLP
-- Text Preprocessing: Lemmatization, tokenization, stopwords, POS Tagging
+- Text Preprocessing: Stemming, Lemmatization, tokenization, stopwords, POS Tagging, 
 - TF-IDF, Bag of Words
 - Naive Bayes, Logistic Regression on text
 - Word Embeddings: Word2Vec, GloVe
